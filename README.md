@@ -1,2 +1,1 @@
-# alexanderfertig.com
-for hosting documents
+This page hosts documents for alexanderfertig.com.
